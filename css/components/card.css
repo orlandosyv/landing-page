@@ -1,0 +1,19 @@
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: block;
+    margin: 10px auto;
+    border: 2px solid rgb(224, 9, 45);
+    height: 200px;
+    margin: 25px;
+}
+
+.card img {
+    width: 100px;
+    object-fit: cover;
+    object-position: center;
+
+}

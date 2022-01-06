@@ -1,0 +1,21 @@
+.banner {
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-digital-codigo-binario-estilo-matriz-numeros-que-caen_1017-25336.jpg?size=626&ext=jpg);
+    color: white;
+    text-align: left;
+    padding: 50px 90px;
+
+}
+
+.banner p {
+    color: gray;
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+.boton {
+    
+    padding: 10px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+}

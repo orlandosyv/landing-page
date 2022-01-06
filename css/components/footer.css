@@ -1,0 +1,19 @@
+.footer {
+    margin: 10px;
+    border:2px solid green;
+    padding: 15px;
+    background-color: rgb(51, 50, 50);
+    color: white;
+}
+
+.links {
+    color: #1EDD88;
+}
+
+.links a {
+    color:  #1EDD88 ;
+}
+
+.footer .fas {
+    color: red;
+}
